@@ -1,0 +1,10 @@
+body{
+	background-image: url(royal.jpg);
+}
+p{
+	color: white;
+	font-family: 'Lora', serif;
+	font-size: 150%;
+	text-transform: uppercase;
+	text-align: center;
+}
